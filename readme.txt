@@ -9,6 +9,29 @@ Embed TodaysMeet rooms directly into your posts and pages with a simple short co
 
 == Description ==
 
+The TodaysMeet [WordPress plugin](https://wordpress.org/plugins/todaysmeet/)
+makes it easy to embed your TodaysMeet rooms in your WordPress blog with a
+simple [shortcode](http://codex.wordpress.org/Shortcode).
+
+    [todaysmeet id=12345]
+
+The `id` is required, but there are some optional attributes to the shortcode:
+
+- `type` - set to "`live`" to switch to a [Live
+Stream](https://todaysmeet.com/help/faq/13/whats-the-difference-between-live-stream-and-transcript).
+- `participate` - set to "`yes`" to allow visitors to your blog to join and
+participate in the room. (Note that `type` *must* be set to "`live`" for
+`participate` to have an effect.)
+- `width` - allows you to control how wide the embedded room is. Defaults to
+`100%`.
+- `height` - allows you to control how tall the embedded room is. Defaults to
+`400` (pixels).
+
+Here's an example with all the optional attributes:
+
+    [todaysmeet id=12345 type=live participate=no width=50% height=300]
+
+
 == Installation ==
 
 1. Upload `todaysmeet.php` to the `wp-content/plugins` directory.
