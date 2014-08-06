@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: TodaysMeet
- * Plugin URI: https://todaysmeet.com/about/wordpress
+ * Plugin URI: * https://todaysmeet.com/help/faq/14
  * Description: Embed TodaysMeet rooms in your posts and pages.
  * Version: 1.0
  * Author: TodaysMeet

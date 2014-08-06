@@ -11,7 +11,7 @@ Embed TodaysMeet rooms directly into your posts and pages with a simple short co
 
 == Description ==
 
-The TodaysMeet [WordPress plugin](https://wordpress.org/plugins/todaysmeet/) makes it easy to embed your TodaysMeet rooms in your WordPress blog with a simple [shortcode](http://codex.wordpress.org/Shortcode).
+The [TodaysMeet WordPress plugin](https://todaysmeet.com/help/faq/14/what-is-the-todaysmeet-wordpress-plugin-how-do-i-use-it) makes it easy to embed your TodaysMeet rooms in your WordPress blog with a simple [shortcode](http://codex.wordpress.org/Shortcode).
 
     [todaysmeet id=12345]
 
