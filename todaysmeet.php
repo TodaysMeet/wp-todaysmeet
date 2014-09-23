@@ -3,7 +3,7 @@
  * Plugin Name: TodaysMeet
  * Plugin URI: * https://todaysmeet.com/help/faq/14
  * Description: Embed TodaysMeet rooms in your posts and pages.
- * Version: 1.0.2
+ * Version: 1.0.3
  * Author: TodaysMeet
  * Author URI: https://todaysmeet.com/
  * License: GPL2
